@@ -19,3 +19,9 @@ int main(int argc, char *argv[]) {
 
 	std::cout<<printMoney<<std::endl;
 }
+
+
+string printMoney(int in_money){
+	
+	return "PRINTING OUT "+in_money+" MILLION DOLLARS";
+}
